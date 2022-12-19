@@ -6,7 +6,7 @@
 }
 /* ******************************************************* clock *********************************************** */
 .clockBody{
-    margin-top: 320px;
+    margin-top: 120px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -152,7 +152,7 @@
 }
 .slider{
     position: absolute;
-    top: 93%;
+    top: 72%;
     left: 50%;
     transform: translate(-50%,-50%);
     -webkit-appearance: none;
@@ -187,11 +187,11 @@ body{
     background: #1d061a;
     /* background: url(./back.jpg)no-repeat center / cover; */
 }
-.soat{
+/* .soat{
     margin: 0 auto;
     padding-left: 200px;
     z-index: 999;
-}
+} */
 .inson{
     margin-top: 50px;
 }
